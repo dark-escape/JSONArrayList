@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_bc89987c70ac1e68eedf5eda0e3b0f31951e4ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_61d31398b41e717f1c1517d840e3e6f7e10b3a9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_075ab772dae6f12b7d6a7eedad5470e05a535215.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e922335060647bae01bafad3806844ecc4d42e12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_01e73b17fa6fb3b8937fca34e8e5469213dab0d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\JSONArrayList\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_e74c07833dcc80a070286678d3777130ac327b52.jar" />
+    </item>
+
+</items>
